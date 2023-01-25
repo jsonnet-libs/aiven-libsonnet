@@ -2,207 +2,412 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/clickhouse/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/clickhouseUser/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/connectionPool/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/database/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/kafka/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/kafkaACL/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/kafkaConnect/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/kafkaConnector/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/kafkaSchema/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/kafkaTopic/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/openSearch/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/postgreSQL/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/project/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/projectVPC/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/redis/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/serviceIntegration/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.3.0/aiven/v1alpha1/serviceUser/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/clickhouse/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/clickhouseUser/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/connectionPool/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/database/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/kafka/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/kafkaACL/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/kafkaConnect/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/kafkaConnector/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/kafkaSchema/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/kafkaTopic/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/openSearch/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/postgreSQL/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/project/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/projectVPC/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/redis/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/serviceIntegration/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.4.0/aiven/v1alpha1/serviceUser/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/clickhouse/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/clickhouseUser/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/connectionPool/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/database/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/kafka/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/kafkaACL/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/kafkaConnect/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/kafkaConnector/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/kafkaSchema/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/kafkaTopic/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/openSearch/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/postgreSQL/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/project/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/projectVPC/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/redis/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/serviceIntegration/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.5.2/aiven/v1alpha1/serviceUser/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/clickhouse/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/clickhouseUser/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/connectionPool/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/database/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/kafka/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/kafkaACL/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/kafkaConnect/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/kafkaConnector/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/kafkaSchema/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/kafkaTopic/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/mySQL/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/openSearch/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/postgreSQL/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/project/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/projectVPC/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/redis/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/serviceIntegration/</loc>
+         <lastmod>2023-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/aiven-libsonnet/0.6.0/aiven/v1alpha1/serviceUser/</loc>
+         <lastmod>2023-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
